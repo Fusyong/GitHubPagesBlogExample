@@ -11,5 +11,3 @@ tags: [hot, summer]
 正文
 
 ![拼字游戏二维码]({{ site.baseurl }}/assets/img/qrCode.jpg)
-
-![拼字游戏二维码]({{ site.baseurl }}/images/qrCode.jpg)
