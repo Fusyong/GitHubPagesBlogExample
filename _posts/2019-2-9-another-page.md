@@ -8,6 +8,10 @@ tags: [hot, summer]
 
 ## 文章一
 
-微信拼字游戏：
+贴图示例一：
 
-![拼字游戏二维码]({{ site.baseurl }}/assets/img/qrCode.jpg)
+![微信拼字游戏]({{ site.baseurl }}/assets/img/qrCode.jpg)
+
+贴图示例二(当站点在域名根目录中时)：
+
+![微信拼字游戏](/assets/img/qrCode.jpg)
