@@ -4,8 +4,8 @@ Gem::Specification.new do |s|
   s.license       = 'CC0-1.0'
   s.authors       = ['HuangFysyong', 'XiiiGame.com']
   s.email         = ['aahuaang@gmail.com']
-  s.homepage      = 'https://github.com/pages-themes/minimal'
-  s.summary       = 'Minimal is a Jekyll theme for GitHub Pages'
+  s.homepage      = 'https://blog.xiiigame.com'
+  s.summary       = '这是博客测试'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
