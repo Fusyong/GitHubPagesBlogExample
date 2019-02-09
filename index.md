@@ -1,3 +1,8 @@
+---
+layout: post
+title: My Blog
+---
+
 # 文章一
 
 测试文章
