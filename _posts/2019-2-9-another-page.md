@@ -10,6 +10,6 @@ tags: [hot, summer]
 
 正文
 
-![My helpful screenshot]({{ site.baseurl }}/assets/img/qrCode.jpg)
+![拼字游戏二维码]({{ site.baseurl }}/assets/img/qrCode.jpg)
 
-![My helpful screenshot]({{ site.baseurl }}/images/qrCode.jpg)
+![拼字游戏二维码]({{ site.baseurl }}/images/qrCode.jpg)
