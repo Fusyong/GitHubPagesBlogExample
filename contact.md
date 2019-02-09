@@ -3,6 +3,6 @@ layout: default
 title: Contact
 ---
 
-# 联系信息
+# Contact
 
 正文

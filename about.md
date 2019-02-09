@@ -3,6 +3,6 @@ layout: default
 title: About
 ---
 
-# 简介
+# About
 
 正文
