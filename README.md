@@ -6,7 +6,7 @@
 * 预制示例用的`favicon.ico`文件、静态文件`about.md, contact.md`、博客帖子；
 * 预制的配置文件`_config.yaml`，能适应官方内置的模板；
 
-部署地址[在此](http://blog.xiiigame.com/blog-example/)。
+部署地址[在此](http://blog.xiiigame.com/GitHubPagesBlogExample/)。
 
 ## 安装要点
 
