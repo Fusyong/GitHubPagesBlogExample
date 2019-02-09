@@ -4,3 +4,8 @@ description: 这是博客的描述。
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true

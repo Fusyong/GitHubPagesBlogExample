@@ -11,5 +11,3 @@ tags: [hot, summer]
 正文
 
 ![My helpful screenshot](/assets/img/logo.png)
-
-[back](../)

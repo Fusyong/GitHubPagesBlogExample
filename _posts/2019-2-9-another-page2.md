@@ -9,5 +9,3 @@ tags: [hot, summer]
 ## Welcome to another page
 
 正文
-
-[back](../)
