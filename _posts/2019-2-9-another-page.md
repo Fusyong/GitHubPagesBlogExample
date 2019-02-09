@@ -6,8 +6,8 @@ categories: [blog, travel]
 tags: [hot, summer]
 ---
 
-## Welcome to another page
+## 文章一
 
-正文
+微信拼字游戏：
 
 ![拼字游戏二维码]({{ site.baseurl }}/assets/img/qrCode.jpg)

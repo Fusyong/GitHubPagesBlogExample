@@ -6,6 +6,6 @@ categories: [blog, travel]
 tags: [hot, summer]
 ---
 
-## Welcome to another page
+## 文章二
 
 正文
