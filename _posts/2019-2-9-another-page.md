@@ -10,4 +10,4 @@ tags: [hot, summer]
 
 正文
 
-![My helpful screenshot](/assets/img/logo.png)
+![My helpful screenshot](/images/favicon.ico)
