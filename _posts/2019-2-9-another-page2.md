@@ -1,9 +1,10 @@
 ---
 layout: default
+title: 文章二
 ---
 
 ## Welcome to another page
 
-_yay_
+正文
 
 [back](./)
